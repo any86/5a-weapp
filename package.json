@@ -1,0 +1,24 @@
+{
+  "name": "@5a/weapp",
+  "version": "0.0.1",
+  "description": "基于5a.css样式的微信小程序组件库",
+  "main": "index.js",
+  "scripts": {
+    "release": "npm pub  --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/any86/5a-weapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/any86/5a-weapp/issues"
+  },
+  "homepage": "https://github.com/any86/5a-weapp#readme",
+  "dependencies": {
+    "@5a/css": "^0.0.1",
+    "typescript": "^3.6.3"
+  }
+}
