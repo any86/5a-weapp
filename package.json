@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/any86/5a-weapp#readme",
   "dependencies": {
-    "@5a/css": "^0.0.1",
     "typescript": "^3.6.3"
   }
 }

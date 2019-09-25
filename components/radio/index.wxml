@@ -1,0 +1,1 @@
+<view class="a-radio {{value && 'a-radio--checked'}}"></view>
